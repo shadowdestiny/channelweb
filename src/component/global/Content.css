@@ -1,0 +1,7 @@
+.Content {
+    text-align: center;
+    height: 650px;
+    max-height: 650px;
+    overflow-y: auto;
+    scroll-behavior: auto;
+}

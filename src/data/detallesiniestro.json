@@ -1,0 +1,33 @@
+{
+	"tipodesiniestro": "Normal",
+	"nrosiniestro": "1234",
+	"estado":"Pendiente Sustento",
+	"certificado":"1 - MIDA FISH SRL",
+	"poliza": "556789",
+	"producto": "1301-ROBO",
+	"iniciovigencia": "10/11/2016",
+	"asegurado": "MIDA FISH SRL",
+	"fechaocurrencia": "10/07/2017",
+	"findevigencia": "10/07/2017",
+	"corredor": "CORREDOR 123",
+	"fechadeaviso": "10/07/2017",
+	"descripcion": "Se presentara danos en las mercancias transportadas",
+	"ubicacion": "JR MANUEL RUIZ 917,SANTIAGO DE SURCO,LIMA,PERU",
+	"empresadetransporte": "Meridian Express",
+	"nombredelchofer": "Pepe Lucho Morca",
+	"cobertura": 
+	{
+		"desramo":"ROBO",
+		"descobertura":"MATERIALES",
+		"causa":"ROBO POR ASALTO",
+		"consecuencia":"PERDIDA PARCIAL",
+		"monto":"850"
+	},
+	"contacto":
+	{
+		 "descontacto":"Asegurado",
+	 	"nombre":"Jose Rodriguez Soto",
+	 	"email":"jrodri@gmail.com",
+	 	"telefono":"99867263"
+	}
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "numcert": "2",
+    "stscert": "ACT",
+    "dsccert": "AEREA",
+    "desccliente": "COMPANIA NACIONAL DE PAPELES S.A.C.",
+    "fecing": "20010101 12:00:00",
+    "codcli": "227767",
+    "nombrecli": "",
+    "codofisusc": "100000",
+    "codofiemi": "101000",
+    "fecexc": "",
+    "codmotvexc": "",
+    "textmotvexc": "",
+    "fecfin": "20020101 12:00:00",
+    "codmonsumaseg": "",
+    "sumaaseg": "3508",
+    "idedec": "",
+    "planilla": "1",
+    "aplicacion": "1"
+  }
+]

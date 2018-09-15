@@ -1,0 +1,862 @@
+[
+  {
+    "codramo": "TMTO",
+    "indfacultativo": "N",
+    "coberturas": [
+      {
+        "idecobert": "952525",
+        "codcobert": "0502",
+        "dsccobert": "EDIFICIO DE OFICINAS - TERREMOTO",
+        "tipores": "B",
+        "codmoncob": "USD",
+        "codcpto": "",
+        "sumaseg": "14159.49",
+        "codbien": "0001",
+        "clasebien": "001"
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "RESERVAS TECNICAS",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "000",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AJUSTADOR",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "001",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "PROCURADOR",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "002",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "PERITO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "003",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AUDITOR MEDICO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "007",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "PREVENTOR",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "008",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "OTROS PROVEEDORES",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "009",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "TECNICO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "010",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "GRUA POR SINIESTRO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "011",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AMBULANCIA POR SINIESTROS",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "012",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "VIGILANCIA POR SINIESTRO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "013",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "REPARACIONES DOMESTICAS POR SINIESTRO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "014",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "RECUPERADORES",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "015",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "INTERMEDIARIOS COMERCIALES",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "016",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "CLINICAS",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "017",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AJUSTE",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "025",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "DIGITACION",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "026",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      }
+    ]
+  },
+  {
+    "codramo": "INCE",
+    "indfacultativo": "N",
+    "coberturas": [
+      {
+        "idecobert": "952518",
+        "codcobert": "M101",
+        "dsccobert": "EDIFICIO DE OFICINAS - INCENDIO Y/O RAYO",
+        "tipores": "B",
+        "codmoncob": "USD",
+        "codcpto": "",
+        "sumaseg": "14159.49",
+        "codbien": "0001",
+        "clasebien": "001"
+      },
+      {
+        "idecobert": "952519",
+        "codcobert": "0403",
+        "dsccobert": "EDIFICIO DE OFICINAS - DM,V Y TERRORISMO",
+        "tipores": "B",
+        "codmoncob": "USD",
+        "codcpto": "",
+        "sumaseg": "14159.49",
+        "codbien": "0001",
+        "clasebien": "001"
+      },
+      {
+        "idecobert": "952520",
+        "codcobert": "1899",
+        "dsccobert": "EDIFICIO DE OFICINAS - GASTOS EXTRAORDINAR",
+        "tipores": "B",
+        "codmoncob": "USD",
+        "codcpto": "",
+        "sumaseg": "2831.9",
+        "codbien": "0001",
+        "clasebien": "001"
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "RESERVAS TECNICAS",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "000",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AJUSTADOR",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "001",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "PROCURADOR",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "002",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "PERITO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "003",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AUDITOR MEDICO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "007",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "PREVENTOR",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "008",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "OTROS PROVEEDORES",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "009",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "TECNICO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "010",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "GRUA POR SINIESTRO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "011",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AMBULANCIA POR SINIESTROS",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "012",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "VIGILANCIA POR SINIESTRO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "013",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "REPARACIONES DOMESTICAS POR SINIESTRO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "014",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "RECUPERADORES",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "015",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "INTERMEDIARIOS COMERCIALES",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "016",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "CLINICAS",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "017",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AJUSTE",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "025",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "DIGITACION",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "026",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      }
+    ]
+  },
+  {
+    "codramo": "LUCE",
+    "indfacultativo": "N",
+    "coberturas": [
+      {
+        "idecobert": "952521",
+        "codcobert": "6020",
+        "dsccobert": "LUCRO CESANTE - LC INCENDIO Y L.ALIA",
+        "tipores": "B",
+        "codmoncob": "USD",
+        "codcpto": "",
+        "sumaseg": "2831.9",
+        "codbien": "0001",
+        "clasebien": "140"
+      },
+      {
+        "idecobert": "952522",
+        "codcobert": "1702",
+        "dsccobert": "LUCRO CESANTE - PRIMA LC X TERREMOTO",
+        "tipores": "B",
+        "codmoncob": "USD",
+        "codcpto": "",
+        "sumaseg": "2831.9",
+        "codbien": "0001",
+        "clasebien": "140"
+      },
+      {
+        "idecobert": "952523",
+        "codcobert": "1904",
+        "dsccobert": "LUCRO CESANTE - PRIMA LC X TERRORISM",
+        "tipores": "B",
+        "codmoncob": "USD",
+        "codcpto": "",
+        "sumaseg": "2831.9",
+        "codbien": "0001",
+        "clasebien": "140"
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "RESERVAS TECNICAS",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "000",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AJUSTADOR",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "001",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "PROCURADOR",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "002",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "PERITO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "003",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AUDITOR MEDICO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "007",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "PREVENTOR",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "008",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "OTROS PROVEEDORES",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "009",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "TECNICO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "010",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "GRUA POR SINIESTRO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "011",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AMBULANCIA POR SINIESTROS",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "012",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "VIGILANCIA POR SINIESTRO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "013",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "REPARACIONES DOMESTICAS POR SINIESTRO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "014",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "RECUPERADORES",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "015",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "INTERMEDIARIOS COMERCIALES",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "016",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "CLINICAS",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "017",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AJUSTE",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "025",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "DIGITACION",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "026",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      }
+    ]
+  },
+  {
+    "codramo": "RECI",
+    "indfacultativo": "N",
+    "coberturas": [
+      {
+        "idecobert": "952524",
+        "codcobert": "2517",
+        "dsccobert": "OTROS CONTENIDOS - RESPONSABILIDAD CIVIL EXTRACONTRACTUAL",
+        "tipores": "B",
+        "codmoncob": "USD",
+        "codcpto": "",
+        "sumaseg": "100000",
+        "codbien": "0001",
+        "clasebien": "041"
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "RESERVAS TECNICAS",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "000",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AJUSTADOR",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "001",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "PROCURADOR",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "002",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "PERITO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "003",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AUDITOR MEDICO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "007",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "PREVENTOR",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "008",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "OTROS PROVEEDORES",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "009",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "TECNICO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "010",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "GRUA POR SINIESTRO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "011",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AMBULANCIA POR SINIESTROS",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "012",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "VIGILANCIA POR SINIESTRO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "013",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "REPARACIONES DOMESTICAS POR SINIESTRO",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "014",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "RECUPERADORES",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "015",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "INTERMEDIARIOS COMERCIALES",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "016",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "CLINICAS",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "017",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "AJUSTE",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "025",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      },
+      {
+        "idecobert": "",
+        "codcobert": "",
+        "dsccobert": "DIGITACION",
+        "tipores": "O",
+        "codmoncob": "",
+        "codcpto": "026",
+        "sumaseg": "0",
+        "codbien": "",
+        "clasebien": ""
+      }
+    ]
+  }
+]

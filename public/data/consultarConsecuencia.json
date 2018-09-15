@@ -1,0 +1,14 @@
+[
+      {
+      "codconsec": "INV",
+      "dscconsec": "INVALIDO"
+   },
+      {
+      "codconsec": "001",
+      "dscconsec": "PERDIDA PARCIAL"
+   },
+      {
+      "codconsec": "002",
+      "dscconsec": "PERDIDA TOTAL"
+   }
+]

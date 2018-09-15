@@ -1,0 +1,37 @@
+[
+  {
+    "codentfinan": "1",
+    "tipoentfinan": "Empresa Bancaria",
+    "dscentfinan": "Banco de Comercio"
+  },
+  {
+    "codentfinan": "2",
+    "tipoentfinan": "Entidades Financieras Estatales",
+    "dscentfinan": "Agrobanco"
+  },
+  {
+    "codentfinan": "3",
+    "tipoentfinan": "Empresas Financieras",
+    "dscentfinan": "Amérika"
+  },
+  {
+    "codentfinan": "4",
+    "tipoentfinan": "Arequipa",
+    "dscentfinan": "Amérika - 1"
+  },
+  {
+    "codentfinan": "5",
+    "tipoentfinan": "Arequipa",
+    "dscentfinan": "Amérika - 2"
+  },
+  {
+    "codentfinan": "6",
+    "tipoentfinan": "Arequipa",
+    "dscentfinan": "Cusco"
+  },
+  {
+    "codentfinan": "7",
+    "tipoentfinan": "Edpymes",
+    "dscentfinan": "BBVA Consumer Finance"
+  }
+]

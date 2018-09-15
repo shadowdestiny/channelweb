@@ -1,0 +1,46 @@
+[
+  {
+    "coditem": "CFR",
+    "dscitem": "COST AND FREIGHT"
+  },
+  {
+    "coditem": "CIF",
+    "dscitem": "COST, INSURANCE, FREIGHT"
+  },
+  {
+    "coditem": "CIP",
+    "dscitem": "CARRIAGE AND INSURANCE PAID TO"
+  },
+  {
+    "coditem": "CPT",
+    "dscitem": "CARRIAGE PAID TO"
+  },
+  {
+    "coditem": "DAP",
+    "dscitem": "DELIVERED AT PLACE"
+  },
+  {
+    "coditem": "DAT",
+    "dscitem": "DELIVERED AT TERMINAL"
+  },
+  {
+    "coditem": "DDP",
+    "dscitem": "DELIVERED DUTY PAID"
+  },
+  {
+    "coditem": "EXW",
+    "dscitem": "EX WORKS"
+  },
+  {
+    "coditem": "FAS",
+    "dscitem": "FREE ALONGSIDE SHIP"
+  },
+  {
+    "coditem": "FCA",
+    "dscitem": "FREE CARRIER"
+  },
+  {
+    "coditem": "FOB",
+    "dscitem": "FREE ON BOARD"
+  }
+]

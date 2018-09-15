@@ -1,0 +1,178 @@
+[
+      {
+      "codcausa": "031",
+      "desccausa": "CLONACION DE TARJETA"
+   },
+      {
+      "codcausa": "040",
+      "desccausa": "ROBO POR ASALTO"
+   },
+      {
+      "codcausa": "041",
+      "desccausa": "ROBO POR ESCALAMIENTO Y FRACTURA"
+   },
+      {
+      "codcausa": "001",
+      "desccausa": "Z(NO USAR)- ARREBATO"
+   },
+      {
+      "codcausa": "002",
+      "desccausa": "ASALTO A MANO ARMADA"
+   },
+      {
+      "codcausa": "003",
+      "desccausa": "INTENTO DE ROBO"
+   },
+      {
+      "codcausa": "004",
+      "desccausa": "Z(NO USAR)- ROBO"
+   },
+      {
+      "codcausa": "005",
+      "desccausa": "ROBO CON FRACTURA"
+   },
+      {
+      "codcausa": "006",
+      "desccausa": "HURTO"
+   },
+      {
+      "codcausa": "007",
+      "desccausa": "Z(NO USAR)- ROBO POR ESCALAMIENTO Y FRACTURA"
+   },
+      {
+      "codcausa": "008",
+      "desccausa": "Z(NO USAR)- DESHONESTIDAD"
+   },
+      {
+      "codcausa": "009",
+      "desccausa": "Z(NO USAR)- ESTAFA"
+   },
+      {
+      "codcausa": "010",
+      "desccausa": "Z(NO USAR)- FALSIFICACION DE DOCUMENTOS BANCARIOS"
+   },
+      {
+      "codcausa": "011",
+      "desccausa": "Z(NO USAR)- FALSIFICACION DE CHEQUES DE GERENCIA Y/O PAPEL MONEDA"
+   },
+      {
+      "codcausa": "012",
+      "desccausa": "Z(NO USAR)- ROBO POR ESCALAMIENTO"
+   },
+      {
+      "codcausa": "013",
+      "desccausa": "Z(NO USAR)- POR CONFIRMAR"
+   },
+      {
+      "codcausa": "014",
+      "desccausa": "Z(NO USAR)- SEGUNDO SINIESTRO"
+   },
+      {
+      "codcausa": "015",
+      "desccausa": "Z(NO USAR)- DINERO EN CAJA DE SEGURIDAD"
+   },
+      {
+      "codcausa": "016",
+      "desccausa": "Z(NO USAR)- DINERO EN PODER DE PROMOTORAS"
+   },
+      {
+      "codcausa": "017",
+      "desccausa": "Z(NO USAR)- ROBO DE CONDUCTORES Y/O CABLES"
+   },
+      {
+      "codcausa": "018",
+      "desccausa": "Z(NO USAR)- ROBO DE PANELES SOLARES"
+   },
+      {
+      "codcausa": "019",
+      "desccausa": "Z(NO USAR)- EQUIPOS MOVILES"
+   },
+      {
+      "codcausa": "020",
+      "desccausa": "Z(NO USAR)- EN AGREGADO ANUAL"
+   },
+      {
+      "codcausa": "021",
+      "desccausa": "Z(NO USAR)- TERCER SINIESTRO EN ADELANTE"
+   },
+      {
+      "codcausa": "022",
+      "desccausa": "Z(NO USAR)- OBRAS DE ARTE"
+   },
+      {
+      "codcausa": "023",
+      "desccausa": "Z(NO USAR)- EQUIPOS DE COMPUTO"
+   },
+      {
+      "codcausa": "024",
+      "desccausa": "Z(NO USAR)- PRIMER SINIESTRO EN CONTENIDO EN GENERAL"
+   },
+      {
+      "codcausa": "025",
+      "desccausa": "Z(NO USAR)- PRIMER SINIESTRO EN CONTENIDO EN SELECT"
+   },
+      {
+      "codcausa": "026",
+      "desccausa": "Z(NO USAR)- PRIMER SINIESTRO EN CAJA CHICA"
+   },
+      {
+      "codcausa": "027",
+      "desccausa": "Z(NO USAR)- PRIMER SINIESTRO EN CAJA FUERTE"
+   },
+      {
+      "codcausa": "028",
+      "desccausa": "Z(NO USAR)- MAQUINARIA"
+   },
+      {
+      "codcausa": "DEF",
+      "desccausa": "Z(NO USAR)- POR EVENTO"
+   },
+      {
+      "codcausa": "INV",
+      "desccausa": "Z(NO USAR)- INVALIDO"
+   },
+      {
+      "codcausa": "029",
+      "desccausa": "APROPIACIÃ“N ILICITA"
+   },
+      {
+      "codcausa": "030",
+      "desccausa": "ASALTO"
+   },
+      {
+      "codcausa": "032",
+      "desccausa": "DESAPARICIÃ“N MISTERIOSA"
+   },
+      {
+      "codcausa": "033",
+      "desccausa": "DESHONESTIDAD DE EMPLEADOS"
+   },
+      {
+      "codcausa": "034",
+      "desccausa": "DESHONESTIDAD DE VIGILANTES"
+   },
+      {
+      "codcausa": "035",
+      "desccausa": "PÃ‰RDIDAS ORIGINADAS POR INFORMACIÃ“N ELECTRONICA"
+   },
+      {
+      "codcausa": "036",
+      "desccausa": "PÃ‰RDIDAS POR COMPRAS CON TARJETA DE CRÃ‰DITO."
+   },
+      {
+      "codcausa": "037",
+      "desccausa": "PÃ‰RDIDAS POR FALSIFICACIÃ“N DE MONEDAS O BILLETES"
+   },
+      {
+      "codcausa": "038",
+      "desccausa": "ROBO CON ESCALAMIENTO Y FRACTURA"
+   },
+      {
+      "codcausa": "039",
+      "desccausa": "ROBO DE BIENES DE EMPLEADOS"
+   },
+      {
+      "codcausa": "042",
+      "desccausa": "ROBO POR INTRODUCCIÃ“N FURTIVA"
+   }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "roles": [
+      {
+        "codrol": "01662",
+        "descripcion": "ROL_PREVENTOR_CLRG"
+      }
+    ],
+    "error": {},
+    "correo":"hola@mundo.com",
+    "password" : "siliconvalley"
+  }
+]
