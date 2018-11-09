@@ -4,18 +4,6 @@ export const inputTexts = (value) =>{
         value:value
     }
 }
-export const policy = (value) =>{
-    return {
-        type:'policy',
-        value:value
-    }
-}
-export const detailsPolicy = (value) =>{
-    return {
-        type:'ADD',
-        value:value
-    }
-}
 
 export const stateComponent = (value) =>{
     return {
